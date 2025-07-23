@@ -1,0 +1,16 @@
+🔗 Quick Reference Links
+
+✅ OpenAI Chat Completion Docs:
+https://platform.openai.com/docs/guides/chat
+
+✅ SwiftUI ScrollView, TextField, Button:
+https://developer.apple.com/documentation/swiftui
+
+✅ Secure API keys with .xcconfig:
+https://nshipster.com/xcconfig/
+
+✅ LangChain.swift (for agents):
+https://github.com/chain-ml/langchain-swift
+
+✅ AI prompt engineering: A deep dive (YouTube):
+https://youtu.be/T9aRN5JkmL8
